@@ -10,12 +10,12 @@ Welcome to the Seam Carving Algorithm Implemented By Hasan Iqbal v1.0 Release! T
 
 requirements, JDK Requirements, How to run, output, notes and Help Required of programming project of Algorithms 
 Course
-at Computer Science Department of Tsinghua University.
 
 
 
 1. Basic Project Requirement:
------------------------------
+
+-----------------------------
 
 
 i) Take input in form of .txt file. First line indicates number of rows, columns and seam lines to be done.
